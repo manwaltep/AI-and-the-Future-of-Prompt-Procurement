@@ -1,0 +1,2 @@
+# AI-and-the-Future-of-Prompt-Procurement
+This repository contains a comprehensive analysis of the impact of Artificial Intelligence (AI) on the future of work, exploring shifts in unemployment rates, economic growth, reskilling needs, industry-specific AI adoption, monetary and fiscal policy implications, and philosophical and cultural perspectives.
